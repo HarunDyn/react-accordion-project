@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  padding: 1rem;
+}
+
+.App{
+  margin: auto;
+  box-shadow: 3px 3px 10px rgb(0, 0, 0);
+  width: 60vw;
+  /* min-height: 95vh; */
+  padding: 1rem;
+  
+}
+
+.App h2{
+  margin: 1rem;
+  text-align: center;
+}
